@@ -1,0 +1,216 @@
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\E-Shop.dll.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\E-Shop.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\E-Shop.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\csc.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\csc.rsp
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\csi.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\csi.rsp
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\vbc.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\BusinessLayer.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\DataAccessLayer.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityLayer.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Razor.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityFramework.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\BusinessLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\DataAccessLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\DataAccessLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Razor.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityFramework.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Razor.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\BusinessLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\PagedList.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\PagedList.xml
+C:\Users\EREN ERDOĞMUŞ\source\repos\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+C:\E-Shop\E-Shop\bin\E-Shop.dll.config
+C:\E-Shop\E-Shop\bin\E-Shop.dll
+C:\E-Shop\E-Shop\bin\E-Shop.pdb
+C:\E-Shop\E-Shop\bin\roslyn\csc.exe
+C:\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+C:\E-Shop\E-Shop\bin\roslyn\csc.rsp
+C:\E-Shop\E-Shop\bin\roslyn\csi.exe
+C:\E-Shop\E-Shop\bin\roslyn\csi.rsp
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\E-Shop\E-Shop\bin\roslyn\System.AppContext.dll
+C:\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\E-Shop\E-Shop\bin\roslyn\vbc.exe
+C:\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+C:\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+C:\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+C:\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\E-Shop\E-Shop\bin\BusinessLayer.dll
+C:\E-Shop\E-Shop\bin\DataAccessLayer.dll
+C:\E-Shop\E-Shop\bin\EntityFramework.dll
+C:\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+C:\E-Shop\E-Shop\bin\EntityLayer.dll
+C:\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\E-Shop\E-Shop\bin\PagedList.dll
+C:\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+C:\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+C:\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+C:\E-Shop\E-Shop\bin\System.Web.Razor.dll
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+C:\E-Shop\E-Shop\bin\BusinessLayer.pdb
+C:\E-Shop\E-Shop\bin\BusinessLayer.dll.config
+C:\E-Shop\E-Shop\bin\DataAccessLayer.pdb
+C:\E-Shop\E-Shop\bin\DataAccessLayer.dll.config
+C:\E-Shop\E-Shop\bin\EntityLayer.pdb
+C:\E-Shop\E-Shop\bin\EntityLayer.dll.config
+C:\E-Shop\E-Shop\bin\EntityFramework.xml
+C:\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+C:\E-Shop\E-Shop\bin\PagedList.xml
+C:\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+C:\E-Shop\E-Shop\bin\System.Web.Razor.xml
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+C:\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+C:\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+C:\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+C:\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\E-Shop\E-Shop\bin\tr\System.Web.Razor.resources.dll
+C:\E-Shop\E-Shop\bin\tr\System.Web.Webpages.resources.dll
+C:\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\E-Shop\E-Shop\bin\tr\System.Web.Helpers.resources.dll
+C:\E-Shop\E-Shop\bin\tr\System.Web.Mvc.resources.dll
+C:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+C:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+C:\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+C:\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+C:\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\E-Shop.dll.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\E-Shop.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\E-Shop.pdb
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\csc.exe
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\csc.rsp
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\csi.exe
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\csi.rsp
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\vbc.exe
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\BusinessLayer.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\DataAccessLayer.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityFramework.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityLayer.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\PagedList.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Razor.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\BusinessLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\BusinessLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\DataAccessLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\DataAccessLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityLayer.pdb
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityLayer.dll.config
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityFramework.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\PagedList.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Razor.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Razor.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+C:\Users\EREN ERDOĞMUŞ\OneDrive\Masaüstü\E-Shop\E-Shop\obj\Debug\E-Shop.pdb

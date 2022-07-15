@@ -1,0 +1,403 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<EntityLayer.Entities.Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#slider-carousel" data-slide-to="1"></li>
+                        <li data-target="#slider-carousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="col-sm-6">
+                                <h1><span>ERKE</span>TİCARET</h1>
+                                <h2>Ürün satış sitesi</h2>
+                                <p></p>                          
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl1.jpg" class="girl img-responsive" alt="" />
+                                <img src="~/eshop/images/home/pricing.png" class="pricing" alt="" />
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>ERKE</span>TİCARET</h1>
+                                <h2>Ürün satış sitesi</h2>
+                                <p></p>                              
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl2.jpg" class="girl img-responsive" alt="" />
+                                <img src="~/eshop/images/home/pricing.png" class="pricing" alt="" />
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>ERKE</span>TİCARET</h1>
+                                <h2>Ürün satış sitesi</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl3.jpg" class="girl img-responsive" alt="" />
+                                <img src="~/eshop/images/home/pricing.png" class="pricing" alt="" />
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->
+
+<section>
+    <div class="container">
+        <div class="row">
+            @Html.Action("CategoryList", "Category")
+
+            <div class="col-sm-9 padding-right">
+                <div class="features_items">
+                    <!--features_items-->
+                    <h2 class="title text-center">ÜRÜNLERİMİZ</h2>
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-sm-4">
+                            <div class="product-image-wrapper">
+                                <div class="single-products">
+                                    <div class="productinfo text-center">
+
+                                        <a href="/Product/ProductDetails/@item.Id"><img src="~/Content/Image/@item.Image" width="65" height="110" alt="" /></a>
+                                        <h2>@item.Price</h2>
+                                        <p>@item.Name</p>
+                                        <a href="/Product/ProductDetails/@item.Id" class="btn btn-default add-to-cart">Ürün Detay</a>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+
+                    @Html.PagedListPager(Model, sayfa => Url.Action("Index", new { sayfa }), PagedListRenderOptions.Classic)
+
+
+
+                </div><!--features_items-->
+                @Html.Action("PopularProduct", "Product")
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="category-tab">
+        <!--category-tab-->
+        <div class="col-sm-12">
+            <ul class="nav nav-tabs">
+                <li class="active"><a href="#telefon" data-toggle="tab">TELEFONLAR</a></li>
+                <li><a href="#tablet" data-toggle="tab">TABLETLER</a></li>
+                <li><a href="#sarj" data-toggle="tab">ŞARJ ALETLERİ</a></li>
+                <li><a href="#kamera" data-toggle="tab">KAMERALAR</a></li>
+                <li><a href="#bilgisayar" data-toggle="tab">BİLGİSAYAR</a></li>
+            </ul>
+        </div>
+        <div class="tab-content">
+            <div class="tab-pane fade active in" id="telefon">
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/redir.jpg" alt="">
+                                <h2>4899₺</h2>
+                                <p>REEDER P13 BLUE 128 GB</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/hiking a27 128 gb.jpg" alt="">
+                                <h2>8999₺</h2>
+                                <p>HİKİNG A27 128 GB GRAY</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/oppo a16 64gb.jpg" alt="">
+                                <h2>3799₺</h2>
+                                <p>OPPO A16 64 GB </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/IPHONE 11.jpg" alt="">
+                                <h2>13.689₺</h2>
+                                <p>IPHONE 11 128 GB PURPLE</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="tablet">
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/alfa10t tablet pc.jpg" alt="">
+                                <h2>2.799₺</h2>
+                                <p>ALFA 10 T TABLET PC</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/andorid11yoga.jpg" alt="">
+                                <h2>1.999₺</h2>
+                                <p>ANDROİD 11 YOGA 11İNC TABLET PC</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/Aplleipadpro3.nesil128gb11 tablet.jpg" alt="">
+                                <h2>6.000₺</h2>
+                                <p>APPLE İPAD PRO 3.NESİL 128 GB 11 INC TABLET PC</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/samsung galaxytaba8sm.jpg" alt="">
+                                <h2>2.750₺</h2>
+                                <p>SAMSUNG GALAXY TAB A8 SM TABLET PC 10 INC</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="sarj">
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/kablosuz sarj unitesi.jpg" alt="">
+                                <h2>289₺</h2>
+                                <p>SAMSUNG KABLOSUZ ŞARJ ÜNİTESİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/huaweı.jpg" alt="">
+                                <h2>189₺</h2>
+                                <p>HUAWEI ŞARJ ALETİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/philips 3ü 1 arada.jpg" alt="">
+                                <h2>388₺</h2>
+                                <p>PHİLİPS 3 Ü 1ARADA ŞARJ ALETİ-KABLOSUZ ÜNİTE </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/ŞARJ.jpg" alt="">
+                                <h2>25₺</h2>
+                                <p>ŞARJ ALETİ TYPE-C</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="kamera">
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/canong9xtabaderi.jpg" alt="">
+                                <h2>1489₺</h2>
+                                <p>CANON G9X TABA DERİ DİJİTAL FOTOĞRAF MAKİNESİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/CANON.jpg" alt="">
+                                <h2>1788₺</h2>
+                                <p>CANON DİJİTAL FOTOĞRAF MAKİNESİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/fujifilm instaxmini11.jpg" alt="">
+                                <h2>3750₺</h2>
+                                <p>FUJİFİLM İNSTAX MİNİ 11 FOTOĞRAF MAKİNESİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/kodak pıxpro fz43.jpg" alt="">
+                                <h2>3299₺</h2>
+                                <p>KODAK PIXPRO FZ43 FOTOĞRAF MAKİNESİ</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="bilgisayar">
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/surface laptop 4 microsoft ryzen 5.jpg" alt="">
+                                <h2>11.999₺</h2>
+                                <p>MİCROSOFT SURFACE LAPTOP 4 RYZEN 5 </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/casper excalibur g770.jpg" alt="">
+                                <h2>14.999₺</h2>
+                                <p>CASPER EXCALİBUR G770</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/caspernirvanac300.3710.jpg" alt="">
+                                <h2>14.699₺</h2>
+                                <p>CASPER NİRVANA C300.3710 4GB RAM </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/Content/Image/msiprestige14a10ras-072tr pembe notebook.jpg" alt="">
+                                <h2>9.999₺</h2>
+                                <p>MSİ PRESTİGE 14A10RAS-072TR PEMBE NOTEBOOK</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>

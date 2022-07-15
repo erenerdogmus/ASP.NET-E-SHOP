@@ -1,0 +1,75 @@
+﻿@model EntityLayer.Entities.Product
+@{
+    ViewBag.Title = "Update";
+}
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new { @class = "btn btn-danger" })
+
+                <div class="form-group">
+                    <label>Ad</label>
+                    <input type="text" class="form-control" name="Name" value="@Model.Name" />
+                    @Html.ValidationMessageFor(x => x.Name, "", new { @style = "color:red" })
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <input type="text" class="form-control" name="Description" value="@Model.Description" />
+                    @Html.ValidationMessageFor(x => x.Description, "", new { @style = "color:red" })
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Önceki Resim</label>
+                    <img src="~/Content/Image/@Model.Image" width="70" height="70"   />
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Image, "Resim", htmlAttributes: new { @class = " control-label-col-md-2 " })
+                    <input type="file" class="form-control" name="File" />
+                    @Html.ValidationMessageFor(x => x.Image, "", new { @style = "color:red" })
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Fiyat</label>
+                    <input type="text" class="form-control" name="Price" value="@Model.Price" />
+                    @Html.ValidationMessageFor(x => x.Price, "", new { @style = "color:red" })
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Stok</label>
+                    <input type="text" class="form-control" name="Stock" value="@Model.Stock" />
+                    @Html.ValidationMessageFor(x => x.Stock, "", new { @style = "color:red" })
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Popular</label>
+                    @Html.EditorFor(x => x.Popular)
+                    
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Onay</label>
+                    @Html.EditorFor(x => x.IsApproved)
+                 
+                </div>
+                <br />
+                <div class="form-group">
+                    <label>Kategori</label>
+                    @Html.DropDownListFor(x => x.CategoryId, (List<SelectListItem>)ViewBag.ktgr, new { @class = "form-control" })
+
+                  
+                </div>
+                <br />
+
+                <button class="btn btn-primary" type="submit">GÜNCELLE</button>
+                <a href="/AdminProduct/Index" class="btn btn-primary">Ürün Listesi</a>
+            </form>
+        </div>
+    </div>
+</div>
+
